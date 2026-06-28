@@ -1,5 +1,5 @@
 /**
- * CBRNE Management & Radiation Protection in Sri Lanka
+ * CBRNE Management & Risk Identification, Assessment, and Mitigation
  * Frontend Controller Script
  */
 
